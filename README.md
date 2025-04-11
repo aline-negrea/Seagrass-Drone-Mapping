@@ -1,1 +1,2 @@
 # Seagrass-Drone-Mapping
+These notebooks have been written within my internship at the Archipelagos Institute of Marine Research in January to March 2025. The code is based on another code written by Raphaël Vulliez and includes several adaptations. Its intended use is for other GIS interns at Archipelagos with a users' manual to be found on the corresponding Google Drive. However, variations of this code can be used for color detection in other images as well. 
